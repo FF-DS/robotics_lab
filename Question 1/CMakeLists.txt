@@ -206,6 +206,6 @@ include_directories(
 # catkin_add_nosetests(test)
 
 
-catkin_install_python(PROGRAMS src/scripts/talker.py src/scripts/listener.py 
+catkin_install_python(PROGRAMS src/scripts/VectorTransformServer.py src/scripts/VectorTransformClient.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
