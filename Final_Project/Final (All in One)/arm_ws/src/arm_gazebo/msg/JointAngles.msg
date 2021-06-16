@@ -1,0 +1,4 @@
+float64 angleOne
+float64 angleTwo
+float64 angleThree
+float64 angleFour
