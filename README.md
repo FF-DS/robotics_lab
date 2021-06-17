@@ -6,10 +6,7 @@
   
 ### Question - 2 :-
 *On this part we have extended on top of the previous controller(which is done during assignment 1) and added the following functionalities
--> creating a topic to control the gripper
--> defining two methods which will assist for grabbing and releasing.
--> important service message files which will be used for IK and FK.
--> creating a method to perpare the starting state of the robot.
+creating a topic to control the gripper, defining two methods which will assist for grabbing and releasing, important service message files which will be used for IK and FK and creating a method to perpare the starting state of the robot.
  
 ### Question - 3 :-
 *On this part we have created and implemented the two IK and FK services and also created a python ros package called 'Transformation Calculator' which is used to assist in the mathematical calculation for the two services
